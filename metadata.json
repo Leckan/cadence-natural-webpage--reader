@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "A Google Chrome extension that reads webpage text aloud with natural-sounding voices, adjustable playback speed, and real-time word and sentence highlighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
